@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジィガ（feat. 鏡音レン、鏡音リン）",
+  "base_artist": "雨良",
+  "createdAt": "2026-03-08T16:01:09.182927Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジィガ (feat. 鏡音リン & 鏡音レン)",
+      "artist": "雨良",
+      "has_synced": false,
+      "path": "select/pl_01_ジィガ_(feat._鏡音リン_&_鏡音レン)_雨良.txt"
+    }
+  ]
+}
